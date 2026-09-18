@@ -1,3 +1,5 @@
+(https://github.com/user-attachments/files/32376970/index.html.html)
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -576,7 +578,6 @@ c.remove();
 
 checkAchievements();
 
-  
 </script>
 
 </body>
