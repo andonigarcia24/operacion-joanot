@@ -1,6 +1,5 @@
 # operacion-joanot
-[index.html.html](https://github.com/user-attachments/files/32376124/index.html.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/32376124/index.html.html)
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -8,7 +7,6 @@
 
 <title>Operación Joanot | Mallorca 2026</title>
 
-https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap
 
 <style>
 
