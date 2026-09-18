@@ -1,5 +1,3 @@
-# operacion-joanot
-(https://github.com/user-attachments/files/32376124/index.html.html)
 <html lang="es">
 <head>
 <meta charset="UTF-8">
