@@ -575,7 +575,23 @@ c.remove();
 }
 
 checkAchievements();
+img{<img width="1320" height="1491" alt="IMG_4030" src="https://github.com/user-attachments/assets/2a928dd2-2349-4585-8b68-b46acfa74883" /><img width="1320" height="1366" alt="IMG_4031" src="https://github.com/user-attachments/assets/7e05ea3f-efdf-4f68-bfe6-af3624d4cb28" />
+<img width="1320" height="1473" alt="IMG_4033" src="https://github.com/user-attachments/assets/b8ae2aa7-3de1-4ab9-904b-d56752c74b40" />
+<img width="1320" height="1439" alt="IMG_4032" src="https://github.com/user-attachments/assets/dc6d5dd2-aa42-4777-b9e4-58aa636e9c11" />
 
+
+  width:100%;
+  border-radius:25px;
+  margin-top:15px;
+  box-shadow:0 10px 25px rgba(0,0,0,.25);
+  transition:.3s;
+}
+
+img:hover{
+  transform:scale(1.02);
+}
+
+  
 </script>
 
 </body>
